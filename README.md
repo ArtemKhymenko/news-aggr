@@ -1,2 +1,2 @@
 News aggregator django project.
-Deploy to Heroku: https://him-news-aggr.herokuapp.com/
+Deployed to Heroku: https://him-news-aggr.herokuapp.com/
